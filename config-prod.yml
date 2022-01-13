@@ -1,0 +1,2 @@
+config:
+  info: "Test config-prod.yml in the prod enviroment!"
