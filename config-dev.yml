@@ -1,2 +1,2 @@
-server:
- port: 9554
+config:
+ info: "springcloud-config测试"
